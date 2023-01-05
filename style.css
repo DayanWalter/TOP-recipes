@@ -1,0 +1,17 @@
+* {
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #2b0b46;
+    color: white;
+}
+
+li {
+    text-align: left;
+}
+
+h3 {
+    text-align: left;
+}
+#picture{
+    border-radius: 15px 50px;
+}
