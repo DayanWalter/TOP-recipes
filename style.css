@@ -1,17 +1,17 @@
 * {
-    text-align: center;
-    font-family:'Courier New', Courier, monospace;
-    background-color: #45176b;
-    color: white;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #326b17;
+  color: white;
 }
 
 li {
-    text-align: left;
+  text-align: left;
 }
 
 h3 {
-    text-align: left;
+  text-align: left;
 }
-#picture{
-    border-radius: 15px 50px;
+#picture {
+  border-radius: 15px 50px;
 }
